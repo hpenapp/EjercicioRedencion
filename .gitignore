@@ -1,2 +1,7 @@
 #Lista de carpetas ignoradas
 NewData
+.ipynb_checkpoints
+__pycache__
+
+#Archivos
+connDef.py
